@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1432010282 source:c:\users\xiaoyu\desktop\c++\hr\main.cpp
+	<iostream>
+	"Employee.h"
+	"Sale.h"
+
+1432011561 c:\users\xiaoyu\desktop\c++\hr\include\employee.h
+	<string>
+
+1432011863 c:\users\xiaoyu\desktop\c++\hr\include\sale.h
+	"Employee.h"
+
+1432011378 source:c:\users\xiaoyu\desktop\c++\hr\src\employee.cpp
+	"Employee.h"
+

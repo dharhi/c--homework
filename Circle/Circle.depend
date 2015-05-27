@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1432256316 source:c:\users\xiaoyu\desktop\c++\circle\src\circle.cpp
+	"Circle.h"
+
+1432256247 c:\users\xiaoyu\desktop\c++\circle\include\circle.h
+	"Point.h"
+
+1432256938 c:\users\xiaoyu\desktop\c++\circle\include\point.h
+	<iostream>
+
+1432256247 source:c:\users\xiaoyu\desktop\c++\circle\src\point.cpp
+	"Point.h"
+
+1432257599 source:c:\users\xiaoyu\desktop\c++\circle\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+
